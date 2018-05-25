@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="es.wata.almansaj.cofeemachine.DrinkMakerParserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-05-24T06:57:50" hostname="Mac-mini-de-Javier.local" time="0.002">
+  <properties/>
+  <testcase name="buyCoffeeWith30Cents_message_30centMissing" classname="es.wata.almansaj.cofeemachine.DrinkMakerParserTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
